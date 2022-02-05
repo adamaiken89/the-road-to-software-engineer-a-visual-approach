@@ -21,9 +21,7 @@ This is a curated list of some best references to learn to be a developer.
   - Hell Yes! CSS!
 
 ## Head First
-
 - [Head First Design Patterns (2nd), by Eric Freeman, Elisabeth Robson](https://www.goodreads.com/book/show/56083609-head-first-design-patterns)
-
 - [Head First C, by David Griffiths](https://www.goodreads.com/book/show/12447064-head-first-c)
 - [Head First C# (4th), by Jennifer Greene](https://www.goodreads.com/book/show/36954691-head-first-c)
 - [Head First Android Development (3rd), by Dawn Griffiths,  David Griffiths](https://www.goodreads.com/book/show/59706381-head-first-android-development)
@@ -35,19 +33,15 @@ This is a curated list of some best references to learn to be a developer.
 - [Head First Java, by Kathy Sierra](https://www.goodreads.com/book/show/231262.Head_First_Java)
 - [Head First Python (2nd), by Paul Barry](https://www.goodreads.com/book/show/8933914-head-first-python)
 - [Head First Learn to Code, by Eric Freeman](https://www.goodreads.com/book/show/35355002-head-first-learn-to-code)
-
 - [Head First SQL, by Lynn Beighley](https://www.goodreads.com/book/show/1782447.Head_First_SQL)
-
 - [Head First Object-Oriented Analysis and Design, by Brett McLaughlin, Gary Pollice, David West](https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design)
 - [Head First PMP, by Jennifer Greene & Andrew Stellman](https://www.goodreads.com/book/show/6773234-head-first-pmp)
 - [Head First Agile, by Andrew Stellman, Jennifer Greene](https://www.goodreads.com/book/show/30012890-head-first-agile)
 - [Head First Software Development, by Dan Pilone, Russ Miles](https://www.goodreads.com/book/show/314063.Head_First_Software_Development)
-
 - [Head First Statistics, by Dawn Griffiths](https://www.goodreads.com/book/show/4419784-head-first-statistics)
 
 
 ## Manning Grokking Series
-
 - [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People, by Aditya Y. Bhargava](https://www.goodreads.com/book/show/52257623-grokking-simplicity)
 - [Grokking Simplicity: Taming complex software with functional thinking, by Eric Normand](https://www.goodreads.com/book/show/52257623-grokking-simplicity)
 - [Grokking Deep Learning, by Andrew W. Trask](https://www.goodreads.com/book/show/31565758-grokking-deep-learning)
