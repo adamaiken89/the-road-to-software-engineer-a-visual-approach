@@ -38,7 +38,7 @@ This is a curated list of some best references to learn to be a developer.
 
 - [Head First SQL, by Lynn Beighley](https://www.goodreads.com/book/show/1782447.Head_First_SQL)
 
-- [Head First Object-Oriented Analysis and Design, by Brett McLaughlin, Gary Pollice, David West(https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design)
+- [Head First Object-Oriented Analysis and Design, by Brett McLaughlin, Gary Pollice, David West](https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design)
 - [Head First PMP, by Jennifer Greene & Andrew Stellman](https://www.goodreads.com/book/show/6773234-head-first-pmp)
 - [Head First Agile, by Andrew Stellman, Jennifer Greene](https://www.goodreads.com/book/show/30012890-head-first-agile)
 - [Head First Software Development, by Dan Pilone, Russ Miles](https://www.goodreads.com/book/show/314063.Head_First_Software_Development)
