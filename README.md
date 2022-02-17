@@ -2,6 +2,9 @@
 
 This is a curated list of some best references to learn to be a developer. 
 
+## Why
+- [Why's (poignant) Guide to Ruby](https://poignant.guide)
+
 ## Aurelie Vache
 - [Understanding Kubernetes in a visual way](https://aurelievache.gumroad.com/l/understanding-kubernetes-visual-way) 
 - [Understanding Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way) 
