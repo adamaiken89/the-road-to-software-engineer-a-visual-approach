@@ -55,3 +55,5 @@ This is a curated list of some best references to learn to be a developer.
 - [Grokking Machine Learning](https://www.goodreads.com/book/show/53141537-grokking-machine-learning) - by Luis G. Serrano
 - [Grokking Reactive User Interfaces with ReactiveX and FRP](https://www.goodreads.com/book/show/30848676-grokking-reactive-user-interfaces-with-reactivex-and-frp) - by Timo Tuominen
 
+## Pragmatic Bookshelf
+- [A Common-Sense Guide to Data Structures and Algorithms, 2nd](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
