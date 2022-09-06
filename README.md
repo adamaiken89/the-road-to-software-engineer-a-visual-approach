@@ -58,5 +58,5 @@ This is a curated list of some best references to learn to be a developer.
 ## Pragmatic Bookshelf
 - [A Common-Sense Guide to Data Structures and Algorithms, 2nd](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
 
-## Others 
-- https://www.gentlydownthe.stream/
+## Kafka 
+- [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream/)
