@@ -60,3 +60,4 @@ This is a curated list of some best references to learn to be a developer.
 
 ## Kafka 
 - [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream/)
+- [Comics - DNS Simple](https://dnsimple.com/comics)
