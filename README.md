@@ -45,7 +45,7 @@ This is a curated list of some best references to learn to be a developer.
 
 
 ## Manning Grokking Series
-- [Grokking Algorithms: An Illustrated Guide For Programmers and Other Curious People]([https://www.goodreads.com/book/show/52257623-grokking-simplicity](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) - by Aditya Y. Bhargava
+- [Grokking Algorithms: An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) - by Aditya Y. Bhargava
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.goodreads.com/book/show/52257623-grokking-simplicity) - by Eric Normand
 - [Grokking Deep Learning](https://www.goodreads.com/book/show/31565758-grokking-deep-learning) - by Andrew W. Trask
 - [Grokking Bitcoin](https://www.goodreads.com/book/show/38928682-grokking-bitcoin) - by Kalle Rosenbaum
