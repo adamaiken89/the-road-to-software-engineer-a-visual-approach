@@ -61,3 +61,7 @@ This is a curated list of some best references to learn to be a developer.
 ## Kafka 
 - [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream/)
 - [Comics - DNS Simple](https://dnsimple.com/comics)
+
+## Google Cloud Platform
+- [Visualizing Google Cloud with 101 illustrated references
+](https://www.goodreads.com/book/show/60692351-visualizing-google-cloud)
