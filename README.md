@@ -79,15 +79,18 @@ This is a curated list of some best references to learn to be a developer.
 
 ## Manning Grokking Series
 
-- [Grokking Algorithms: An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) - by Aditya Y. Bhargava
-- [Grokking Simplicity: Taming complex software with functional thinking](https://www.goodreads.com/book/show/52257623-grokking-simplicity) - by Eric Normand
-- [Grokking Deep Learning](https://www.goodreads.com/book/show/31565758-grokking-deep-learning) - by Andrew W. Trask
-- [Grokking Bitcoin](https://www.goodreads.com/book/show/38928682-grokking-bitcoin) - by Kalle Rosenbaum
-- [Grokking Artificial Intelligence Algorithms](https://www.goodreads.com/book/show/50542111-grokking-artificial-intelligence-algorithms) - by Rishal Hurbans
-- [Grokking Functional Programming](https://www.goodreads.com/book/show/22710385-grokking-functional-programming) - by Michał Płachta
-- [Grokking Deep Reinforcement Learning](https://www.goodreads.com/book/show/50336343-grokking-deep-reinforcement-learning) - by Miguel Morales
-- [Grokking Machine Learning](https://www.goodreads.com/book/show/53141537-grokking-machine-learning) - by Luis G. Serrano
-- [Grokking Reactive User Interfaces with ReactiveX and FRP](https://www.goodreads.com/book/show/30848676-grokking-reactive-user-interfaces-with-reactivex-and-frp) - by Timo Tuominen
+- [Grokking Algorithms, Second Edition](https://www.manning.com/books/grokking-algorithms-second-edition) - by Aditya Y. Bhargava
+- [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - by Rishal Hurbans
+- [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - by Kalle Rosenbaum
+- [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) - by Christie Wilson
+- [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency) - by Kirill Bobrov
+- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) - by Andrew W. Trask
+- [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) - by Miguel Morales
+- [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - by Michał Płachta
+- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - by Luis G. Serrano
+- [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - by Qiang Hao · Michail Tsikerdekis
+- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - by Eric Normand
+- [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - by Malcolm McDonald
 
 ## [Mitch Seymour](https://roundrobin.pub) 
 - [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream)
