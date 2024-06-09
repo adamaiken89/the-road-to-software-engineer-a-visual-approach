@@ -84,12 +84,14 @@ This is a curated list of some best references to learn to be a developer.
 - [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - by Kalle Rosenbaum
 - [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) - by Christie Wilson
 - [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency) - by Kirill Bobrov
+- [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - by Marcello La Rocca
 - [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) - by Andrew W. Trask
 - [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) - by Miguel Morales
 - [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - by Michał Płachta
 - [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - by Luis G. Serrano
 - [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - by Qiang Hao · Michail Tsikerdekis
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - by Eric Normand
+- [Grokking Streamming Systems - Real-time event processing](https://www.manning.com/books/grokking-streaming-systems) - by Josh Fischer and Ning Wang
 - [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - by Malcolm McDonald
 
 ## [Mitch Seymour](https://roundrobin.pub) 
