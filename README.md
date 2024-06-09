@@ -3,27 +3,38 @@
 This is a curated list of some best references to learn to be a developer. 
 
 ## Why
+
 - [Why's (poignant) Guide to Ruby](https://poignant.guide)
 
 ## Aurelie Vache
+
 - [Understanding Kubernetes in a visual way](https://aurelievache.gumroad.com/l/understanding-kubernetes-visual-way) 
 - [Understanding Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way) 
 - [Understanding Istio in a visual way](https://aurelievache.gumroad.com/l/understanding-istio-visual-way) 
 
 ## Julia Evans
-- [Wizard Zines Collections](https://wizardzines.com/zines/all-the-zines/)
+
+- [Wizard Zines Collections](https://wizardzines.com/zines/all-the-zines)
   - Bite Size Bash!
   - Bite Size Linux!
   - Bite Size Command Line!
   - Bite Size Networking!
-  - How Containers Work!
+  - The Pocket Guide to Debugging
   - Help! I have a manager!
   - Oh shit, git!
   - HTTP: Learn your browser’s language!
   - Become a SELECT Star!
   - Hell Yes! CSS!
+  - How Containers Work!
+  - How DNS Works!
+  - How Integers and Floats Work!
+  - How Git Works!
+
+- [So you want to be a wizard](https://wizardzines.com/zines/wizard)
 
 ## Head First
+
+- [Head First Software Architecture](https://www.goodreads.com/book/show/171671941-head-first-software-architecture)
 - [Head First Design Patterns (2nd)](https://www.goodreads.com/book/show/56083609-head-first-design-patterns) - by Eric Freeman, Elisabeth Robson
 - [Head First C](https://www.goodreads.com/book/show/12447064-head-first-c) - by David Griffiths
 - [Head First C# (4th)](https://www.goodreads.com/book/show/36954691-head-first-c) - by Jennifer Greene
@@ -34,7 +45,7 @@ This is a curated list of some best references to learn to be a developer.
 - [Head First JavaScript Programming](https://www.goodreads.com/book/show/17912853-head-first-javascript-programming) - by Eric Freeman, Elisabeth Robson
 - [Head First HTML and CSS](https://www.goodreads.com/book/show/13355960-head-first-html-and-css) - by Elisabeth Robson, Eric Freeman
 - [Head First Java](https://www.goodreads.com/book/show/231262.Head_First_Java) - by Kathy Sierra
-- [Head First Python (2nd)](https://www.goodreads.com/book/show/8933914-head-first-python) - by Paul Barry
+- [Head First Python (3rd)](https://www.goodreads.com/book/show/8933914-head-first-python) - by Paul Barry
 - [Head First Learn to Code](https://www.goodreads.com/book/show/35355002-head-first-learn-to-code) - by Eric Freeman
 - [Head First SQL](https://www.goodreads.com/book/show/1782447.Head_First_SQL) - by Lynn Beighley
 - [Head First Object-Oriented Analysis and Design](https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design) - by Brett McLaughlin, Gary Pollice, David West
@@ -43,8 +54,8 @@ This is a curated list of some best references to learn to be a developer.
 - [Head First Software Development](https://www.goodreads.com/book/show/314063.Head_First_Software_Development) - by Dan Pilone, Russ Miles
 - [Head First Statistics](https://www.goodreads.com/book/show/4419784-head-first-statistics) - by Dawn Griffiths
 
-
 ## Manning Grokking Series
+
 - [Grokking Algorithms: An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio) - by Aditya Y. Bhargava
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.goodreads.com/book/show/52257623-grokking-simplicity) - by Eric Normand
 - [Grokking Deep Learning](https://www.goodreads.com/book/show/31565758-grokking-deep-learning) - by Andrew W. Trask
@@ -56,12 +67,35 @@ This is a curated list of some best references to learn to be a developer.
 - [Grokking Reactive User Interfaces with ReactiveX and FRP](https://www.goodreads.com/book/show/30848676-grokking-reactive-user-interfaces-with-reactivex-and-frp) - by Timo Tuominen
 
 ## Pragmatic Bookshelf
-- [A Common-Sense Guide to Data Structures and Algorithms, 2nd](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
+
+- [A Common-Sense Guide to Data Structures and Algorithms, 2nd](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition)
 
 ## Kafka 
-- [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream/)
+- [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream)
 - [Comics - DNS Simple](https://dnsimple.com/comics)
 
+## Serverless
+
+- [Running Serverless](https://runningserverless.com)
+
 ## Google Cloud Platform
-- [Visualizing Google Cloud with 101 illustrated references
-](https://www.goodreads.com/book/show/60692351-visualizing-google-cloud)
+
+- [Visualizing Google Cloud with 101 illustrated references](https://www.goodreads.com/book/show/60692351-visualizing-google-cloud)
+
+## The Manga Guide Series
+
+- [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+  - The Manga Guide to Statistics
+  - The Manga Guide to Statistics: Regression Analysys
+  - The Manga Guide to Differentiation and Integral Calculus
+  - The Manga Guide to Databases
+  - The Manga Guide to Physics (Dynamics)
+  - The Manga Guide to Electricity
+  - The Manga Guide to Cryptology
+  - The Manga Guide to Molecular Biology
+  - The Manga Guide to Theory of Relativity
+  - The Manga Guide to The Universe
+  - The Manga Guide to Linear Algebra
+  - The Manga Guide to Biochemistry
+  - The Manga Guide to Basic Physiology
+  - The Manga Guide to CPU
