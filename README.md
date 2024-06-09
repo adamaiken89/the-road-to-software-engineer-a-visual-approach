@@ -91,7 +91,7 @@ This is a curated list of some best references to learn to be a developer.
 
 ## The Manga Guide Series
 
-- [Manga Guide Series](https://www.ohmsha.co.jp/english/manga.htm)
+- [Manga Guide Series](https://nostarch.com/manga-guide-13-book-set) [(link 2)](https://www.ohmsha.co.jp/english/manga.htm)
   - The Manga Guide to Statistics
   - The Manga Guide to Statistics: Regression Analysys
   - The Manga Guide to Differentiation and Integral Calculus
