@@ -77,9 +77,8 @@ This is a curated list of some best references to learn to be a developer.
 - A Walk to the Cloud
 - [Secret Colors: A Gentle Introduction to Cryptograph](https://roundrobin.pub/pages/secret-colors-announcement)
 
-- 
+## DNS Simple
 - [Comics - DNS Simple](https://dnsimple.com/comics)
-
 
 ## Serverless
 
