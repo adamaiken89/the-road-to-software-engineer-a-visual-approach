@@ -44,7 +44,7 @@ This is a curated list of some best references to learn to be a developer.
 - [Head First Kotlin](https://www.goodreads.com/book/show/44013141-head-first-kotlin) - by Dawn Griffiths, David Griffiths
 - [ Head First JavaScript Programming (2nd)](https://www.goodreads.com/book/show/17912853-head-first-javascript-programming) - by Eric Freeman, Elisabeth Robson
 - [Head First HTML and CSS](https://www.goodreads.com/book/show/13355960-head-first-html-and-css) - by Elisabeth Robson, Eric Freeman
-- [Head First Java](https://www.goodreads.com/book/show/231262.Head_First_Java) - by Kathy Sierra
+- [Head First Java (3rd)](https://www.goodreads.com/book/show/231262.Head_First_Java) - by Kathy Sierra
 - [Head First Python (3rd)](https://www.goodreads.com/book/show/8933914-head-first-python) - by Paul Barry
 - [Head First Learn to Code](https://www.goodreads.com/book/show/35355002-head-first-learn-to-code) - by Eric Freeman
 - [Head First SQL](https://www.goodreads.com/book/show/1782447.Head_First_SQL) - by Lynn Beighley
