@@ -1,7 +1,9 @@
 # The Road to Software Engineer - A Visual Approach
 
 A picture is worth a thousand words.
+
 I think learning from pictures is much easier than reading thousand of words.
+
 This is the reason why I create this repository to note down all the wonderful books & websites to learn.
 
 ## [Antony Canut](https://github.com/AntonyCanut/AntonyCanut)
