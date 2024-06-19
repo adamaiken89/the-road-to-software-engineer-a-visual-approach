@@ -1,6 +1,8 @@
 # The Road to Software Engineer - A Visual Approach
 
-This is a curated list of some references using grpahics and illustrations to teach software engineering. 
+A picture is worth a thousand words.
+I think learning from pictures is much easier than reading thousand of words.
+This is the reason why I create this repository to note down all the wonderful books & websites to learn.
 
 ## [Antony Canut](https://github.com/AntonyCanut/AntonyCanut)
 
@@ -22,6 +24,8 @@ This is a curated list of some references using grpahics and illustrations to te
 - [Understanding Kubernetes in a visual way](https://aurelievache.gumroad.com/l/understanding-kubernetes-visual-way) 
 - [Understanding Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way) 
 - [Understanding Istio in a visual way](https://aurelievache.gumroad.com/l/understanding-istio-visual-way) 
+
+## [Comic Agilé](https://www.comicagile.net)
 
 ## DNS Simple
 - [Comics - DNS Simple](https://dnsimple.com/comics)
