@@ -1,4 +1,4 @@
-# The Road to Software Engineer - A Visual Approach
+# The Road to Software Engineer - A Visual Approach <!-- omit in toc -->
 
 A picture is worth a thousand words.
 
@@ -75,7 +75,7 @@ This is the reason why I create this repository to note down all the wonderful b
 - [Head First Python (3rd)](https://www.goodreads.com/book/show/8933914-head-first-python) - by Paul Barry
 - [Head First Ruby](https://www.goodreads.com/book/show/23466394-head-first-ruby) - by Jay McGavren
 - [Head First SQL](https://www.goodreads.com/book/show/1782447.Head_First_SQL) - by Lynn Beighley
-- [Head First Software Architecture](https://www.goodreads.com/book/show/171671941-head-first-software-architecture)
+- [Head First Software Architecture](https://www.goodreads.com/book/show/171671941-head-first-software-architecture) - by Raju Gandhi, Mark Richards, Neal Ford
 - [Head First Software Development](https://www.goodreads.com/book/show/314063.Head_First_Software_Development) - by Dan Pilone, Russ Miles
 - [Head First Statistics](https://www.goodreads.com/book/show/4419784-head-first-statistics) - by Dawn Griffiths
 
