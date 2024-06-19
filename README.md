@@ -57,7 +57,7 @@ This is a curated list of some references using grpahics and illustrations to te
 - [Head First C](https://www.goodreads.com/book/show/12447064-head-first-c) - by David Griffiths
 - [Head First C# (5th)](https://www.goodreads.com/book/show/36954691-head-first-c) - by Jennifer Greene
 - [Head First Design Patterns (2nd)](https://www.goodreads.com/book/show/56083609-head-first-design-patterns) - by Eric Freeman, Elisabeth Robson
-- [Head First Git](https://www.goodreads.com/book/show/58230359-head-first-git)
+- [Head First Git](https://www.goodreads.com/book/show/58230359-head-first-git) - by Raju Gandhi
 - [Head First Go](https://www.goodreads.com/book/show/36800891-head-first-go) - by Jay McGavren
 - [Head First HTML and CSS](https://www.goodreads.com/book/show/13355960-head-first-html-and-css) - by Elisabeth Robson, Eric Freeman
 - [Head First Java (3rd)](https://www.goodreads.com/book/show/231262.Head_First_Java) - by Kathy Sierra
