@@ -1,6 +1,6 @@
 # The Road to Software Engineer - A Visual Approach
 
-This is a curated list of some good references using grpahics and illustrations to teach software engineering. 
+This is a curated list of some references using grpahics and illustrations to teach software engineering. 
 
 ## [Antony Canut](https://github.com/AntonyCanut/AntonyCanut)
 
