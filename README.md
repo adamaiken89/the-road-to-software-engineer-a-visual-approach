@@ -1,6 +1,6 @@
 # The Road to Software Engineer - A Visual Approach
 
-This is a curated list of some best references to learn to be a developer. 
+This is a curated list of some good references using grpahics and illustrations to teach software engineering. 
 
 ## [Antony Canut](https://github.com/AntonyCanut/AntonyCanut)
 
