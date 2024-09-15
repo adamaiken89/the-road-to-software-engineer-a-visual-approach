@@ -23,13 +23,18 @@ This is the reason why I create this repository to note down all the wonderful b
 
 ## Aurelie Vache
 
-- [Understanding Kubernetes in a visual way](https://aurelievache.gumroad.com/l/understanding-kubernetes-visual-way) 
-- [Understanding Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way) 
-- [Understanding Istio in a visual way](https://aurelievache.gumroad.com/l/understanding-istio-visual-way) 
+- [Understanding Kubernetes in a visual way](https://aurelievache.gumroad.com/l/understanding-kubernetes-visual-way)
+- [Understanding Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way)
+- [Understanding Istio in a visual way](https://aurelievache.gumroad.com/l/understanding-istio-visual-way)
+
+## Amazon Web Service
+
+- [The Illustrated AWS Cloud: A Guide to Help You on Your Cloud Practitioner Journey](https://illustratedaws.cloud) - Jen Looper, Denise Yu
 
 ## [Comic Agilé](https://www.comicagile.net)
 
 ## DNS Simple
+
 - [Comics - DNS Simple](https://dnsimple.com/comics)
 
 ## Google Cloud Platform
@@ -58,26 +63,26 @@ This is the reason why I create this repository to note down all the wonderful b
 
 ## [Head First](https://www.amazon.com/Head-First-Series-Books/b?ie=UTF8&node=8456760011)
 
-- [Head First Agile](https://www.goodreads.com/book/show/30012890-head-first-agile) - by Andrew Stellman, Jennifer Greene
-- [Head First Android Development (3rd)](https://www.goodreads.com/book/show/59706381-head-first-android-development) - by Dawn Griffiths,  David Griffiths
-- [Head First C](https://www.goodreads.com/book/show/12447064-head-first-c) - by David Griffiths
-- [Head First C# (5th)](https://www.goodreads.com/book/show/36954691-head-first-c) - by Jennifer Greene
-- [Head First Design Patterns (2nd)](https://www.goodreads.com/book/show/56083609-head-first-design-patterns) - by Eric Freeman, Elisabeth Robson
-- [Head First Git](https://www.goodreads.com/book/show/58230359-head-first-git) - by Raju Gandhi
-- [Head First Go](https://www.goodreads.com/book/show/36800891-head-first-go) - by Jay McGavren
-- [Head First HTML and CSS](https://www.goodreads.com/book/show/13355960-head-first-html-and-css) - by Elisabeth Robson, Eric Freeman
-- [Head First Java (3rd)](https://www.goodreads.com/book/show/231262.Head_First_Java) - by Kathy Sierra
-- [Head First JavaScript Programming (2nd)](https://www.goodreads.com/book/show/17912853-head-first-javascript-programming) - by Eric Freeman, Elisabeth Robson
-- [Head First Kotlin](https://www.goodreads.com/book/show/44013141-head-first-kotlin) - by Dawn Griffiths, David Griffiths
-- [Head First Learn to Code](https://www.goodreads.com/book/show/35355002-head-first-learn-to-code) - by Eric Freeman
-- [Head First Object-Oriented Analysis and Design](https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design) - by Brett McLaughlin, Gary Pollice, David West
-- [Head First PMP (4th)](https://www.goodreads.com/book/show/43196881-head-first-pmp) - by Jennifer Greene, Andrew Stellman
-- [Head First Python (3rd)](https://www.goodreads.com/book/show/8933914-head-first-python) - by Paul Barry
-- [Head First Ruby](https://www.goodreads.com/book/show/23466394-head-first-ruby) - by Jay McGavren
-- [Head First SQL](https://www.goodreads.com/book/show/1782447.Head_First_SQL) - by Lynn Beighley
-- [Head First Software Architecture](https://www.goodreads.com/book/show/171671941-head-first-software-architecture) - by Raju Gandhi, Mark Richards, Neal Ford
-- [Head First Software Development](https://www.goodreads.com/book/show/314063.Head_First_Software_Development) - by Dan Pilone, Russ Miles
-- [Head First Statistics](https://www.goodreads.com/book/show/4419784-head-first-statistics) - by Dawn Griffiths
+- [Head First Agile](https://www.goodreads.com/book/show/30012890-head-first-agile) - Andrew Stellman, Jennifer Greene
+- [Head First Android Development (3rd)](https://www.goodreads.com/book/show/59706381-head-first-android-development) - Dawn Griffiths,  David Griffiths
+- [Head First C](https://www.goodreads.com/book/show/12447064-head-first-c) - David Griffiths
+- [Head First C# (5th)](https://www.goodreads.com/book/show/36954691-head-first-c) - Jennifer Greene
+- [Head First Design Patterns (2nd)](https://www.goodreads.com/book/show/56083609-head-first-design-patterns) - Eric Freeman, Elisabeth Robson
+- [Head First Git](https://www.goodreads.com/book/show/58230359-head-first-git) - Raju Gandhi
+- [Head First Go](https://www.goodreads.com/book/show/36800891-head-first-go) - Jay McGavren
+- [Head First HTML and CSS](https://www.goodreads.com/book/show/13355960-head-first-html-and-css) - Elisabeth Robson, Eric Freeman
+- [Head First Java (3rd)](https://www.goodreads.com/book/show/231262.Head_First_Java) - Kathy Sierra
+- [Head First JavaScript Programming (2nd)](https://www.goodreads.com/book/show/17912853-head-first-javascript-programming) - Eric Freeman, Elisabeth Robson
+- [Head First Kotlin](https://www.goodreads.com/book/show/44013141-head-first-kotlin) - Dawn Griffiths, David Griffiths
+- [Head First Learn to Code](https://www.goodreads.com/book/show/35355002-head-first-learn-to-code) - Eric Freeman
+- [Head First Object-Oriented Analysis and Design](https://www.goodreads.com/book/show/179207.Head_First_Object_Oriented_Analysis_and_Design) - Brett McLaughlin, Gary Pollice, David West
+- [Head First PMP (4th)](https://www.goodreads.com/book/show/43196881-head-first-pmp) - Jennifer Greene, Andrew Stellman
+- [Head First Python (3rd)](https://www.goodreads.com/book/show/8933914-head-first-python) - Paul Barry
+- [Head First Ruby](https://www.goodreads.com/book/show/23466394-head-first-ruby) - Jay McGavren
+- [Head First SQL](https://www.goodreads.com/book/show/1782447.Head_First_SQL) - Lynn Beighley
+- [Head First Software Architecture](https://www.goodreads.com/book/show/171671941-head-first-software-architecture) - Raju Gandhi, Mark Richards, Neal Ford
+- [Head First Software Development](https://www.goodreads.com/book/show/314063.Head_First_Software_Development) - Dan Pilone, Russ Miles
+- [Head First Statistics](https://www.goodreads.com/book/show/4419784-head-first-statistics) - Dawn Griffiths
 
 ## Pragmatic Bookshelf
 
@@ -85,26 +90,31 @@ This is the reason why I create this repository to note down all the wonderful b
 
 ## Manning Grokking Series
 
-- [Grokking Algorithms, Second Edition](https://www.manning.com/books/grokking-algorithms-second-edition) - by Aditya Y. Bhargava
-- [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - by Rishal Hurbans
-- [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - by Kalle Rosenbaum
-- [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) - by Christie Wilson
-- [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency) - by Kirill Bobrov
-- [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - by Marcello La Rocca
-- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) - by Andrew W. Trask
-- [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) - by Miguel Morales
-- [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - by Michał Płachta
-- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - by Luis G. Serrano
-- [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - by Qiang Hao · Michail Tsikerdekis
-- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - by Eric Normand
-- [Grokking Streamming Systems - Real-time event processing](https://www.manning.com/books/grokking-streaming-systems) - by Josh Fischer and Ning Wang
-- [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - by Malcolm McDonald
+- [Grokking Algorithms, Second Edition](https://www.manning.com/books/grokking-algorithms-second-edition) - Aditya Y. Bhargava
+- [Grokking Artificial Intelligence Algorithms](https://www.manning.com/books/grokking-artificial-intelligence-algorithms) - Rishal Hurbans
+- [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - Kalle Rosenbaum
+- [Grokking Continuous Delivery](https://www.manning.com/books/grokking-continuous-delivery) - Christie Wilson
+- [Grokking Concurrency](https://www.manning.com/books/grokking-concurrency) - Kirill Bobrov
+- [Grokking Data Structures](https://www.manning.com/books/grokking-data-structures) - Marcello La Rocca
+- [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning) - Andrew W. Trask
+- [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) - Miguel Morales
+- [Grokking Functional Programming](https://www.manning.com/books/grokking-functional-programming) - Michał Płachta
+- [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - Luis G. Serrano
+- [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - Qiang Hao, Michail Tsikerdekis
+- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity) - Eric Normand
+- [Grokking Streaming Systems - Real-time event processing](https://www.manning.com/books/grokking-streaming-systems) - Josh Fischer and Ning Wang
+- [Grokking Web Application Security](https://www.manning.com/books/grokking-web-application-security) - Malcolm McDonald
 
-## [Mitch Seymour](https://roundrobin.pub) 
-- [A gentle introdcution to Aprache Kafka](https://www.gentlydownthe.stream)
+## [Mitch Seymour](https://roundrobin.pub)
+
+- [A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream)
 - [A Gentle Introduction to OpenSearch](https://opensearch.roundrobin.pub)
 - A Walk to the Cloud
 - [Secret Colors: A Gentle Introduction to Cryptograph](https://roundrobin.pub/pages/secret-colors-announcement)
+
+## Nitya Narasimhan
+
+- [Sketchnotes - Cloud Skills Visualized](https://cloud-skills.dev)
 
 ## Serverless
 
@@ -114,7 +124,7 @@ This is the reason why I create this repository to note down all the wonderful b
 
 - [Manga Guide Series](https://nostarch.com/manga-guide-13-book-set) [(link 2)](https://www.ohmsha.co.jp/english/manga.htm)
   - The Manga Guide to Statistics
-  - The Manga Guide to Statistics: Regression Analysys
+  - The Manga Guide to Statistics: Regression Analysis
   - The Manga Guide to Differentiation and Integral Calculus
   - The Manga Guide to Databases
   - The Manga Guide to Physics (Dynamics)
@@ -128,6 +138,16 @@ This is the reason why I create this repository to note down all the wonderful b
   - The Manga Guide to Basic Physiology
   - The Manga Guide to CPU
 
+## Tomomi Imura
+
+- [Doodles-as-A-Service Repo](https://github.com/girliemac/a-picture-is-worth-a-1000-words "https://github.com/girliemac/a-picture-is-worth-a-1000-words")
+
 ## Why
 
 - [Why's (poignant) Guide to Ruby](https://poignant.guide)
+
+---
+
+## Nancy Case
+
+- [The Evolution of Trust](https://ncase.me/trust "https://ncase.me/trust")
