@@ -146,8 +146,6 @@ This is the reason why I create this repository to note down all the wonderful b
 
 - [Why's (poignant) Guide to Ruby](https://poignant.guide)
 
----
-
 ## Nancy Case
 
 - [The Evolution of Trust](https://ncase.me/trust "https://ncase.me/trust")
