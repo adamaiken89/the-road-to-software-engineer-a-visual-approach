@@ -84,6 +84,10 @@ This is the reason why I create this repository to note down all the wonderful b
 - [Head First Software Development](https://www.goodreads.com/book/show/314063.Head_First_Software_Development) - Dan Pilone, Russ Miles
 - [Head First Statistics](https://www.goodreads.com/book/show/4419784-head-first-statistics) - Dawn Griffiths
 
+## Olina Glindevi
+
+- [The Visual Agile Coach Playbook: Power-up communication, increase engagement, deliver value and have fun!](https://thevisualagilecoach.com/book)
+
 ## Pragmatic Bookshelf
 
 - [A Common-Sense Guide to Data Structures and Algorithms, 2nd](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition)
