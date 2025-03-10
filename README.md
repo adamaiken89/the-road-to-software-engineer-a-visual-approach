@@ -116,6 +116,10 @@ This is the reason why I create this repository to note down all the wonderful b
 - A Walk to the Cloud
 - [Secret Colors: A Gentle Introduction to Cryptograph](https://roundrobin.pub/pages/secret-colors-announcement)
 
+## Nancy Case
+
+- [The Evolution of Trust](https://ncase.me/trust "https://ncase.me/trust")
+
 ## Nitya Narasimhan
 
 - [Sketchnotes - Cloud Skills Visualized](https://cloud-skills.dev)
@@ -142,14 +146,18 @@ This is the reason why I create this repository to note down all the wonderful b
   - The Manga Guide to Basic Physiology
   - The Manga Guide to CPU
 
+## Todd Cherches 
+
+- [VisuaLeadership](https://www.toddcherches.com/book)
+
 ## Tomomi Imura
 
 - [Doodles-as-A-Service Repo](https://github.com/girliemac/a-picture-is-worth-a-1000-words "https://github.com/girliemac/a-picture-is-worth-a-1000-words")
 
+## Tanmay Vora
+
+- [Raise the bar](https://qaspire.com/raise-the-bar-book)
+
 ## Why
 
 - [Why's (poignant) Guide to Ruby](https://poignant.guide)
-
-## Nancy Case
-
-- [The Evolution of Trust](https://ncase.me/trust "https://ncase.me/trust")
