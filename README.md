@@ -124,6 +124,10 @@ This is the reason why I create this repository to note down all the wonderful b
 
 - [Sketchnotes - Cloud Skills Visualized](https://cloud-skills.dev)
 
+## Rachel Ignotofsky
+
+- [The History of the Computer](https://rachelignotofskydesign.com/the-history-of-the-computer)
+
 ## Serverless
 
 - [Running Serverless](https://runningserverless.com)
