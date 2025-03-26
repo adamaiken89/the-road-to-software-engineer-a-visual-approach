@@ -21,15 +21,19 @@ This is the reason why I create this repository to note down all the wonderful b
 - Terraform for Teenagers
 - Vault for Teenagers
 
+## Article 19
+
+- [How the Internet Really Works](https://catnip.article19.org)
+
+## Amazon Web Service
+
+- [The Illustrated AWS Cloud: A Guide to Help You on Your Cloud Practitioner Journey](https://illustratedaws.cloud) - Jen Looper, Denise Yu
+
 ## Aurelie Vache
 
 - [Understanding Kubernetes in a visual way](https://aurelievache.gumroad.com/l/understanding-kubernetes-visual-way)
 - [Understanding Docker in a visual way](https://aurelievache.gumroad.com/l/understanding-docker-visual-way)
 - [Understanding Istio in a visual way](https://aurelievache.gumroad.com/l/understanding-istio-visual-way)
-
-## Amazon Web Service
-
-- [The Illustrated AWS Cloud: A Guide to Help You on Your Cloud Practitioner Journey](https://illustratedaws.cloud) - Jen Looper, Denise Yu
 
 ## [Comic Agilé](https://www.comicagile.net)
 
